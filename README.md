@@ -28,3 +28,5 @@ Uploading Files and Downloading Files
 we transform the returned FTPFile array is transformed into a list of Strings using Java 8 Streams:
 
 The Apache Net Commons FTP client contains a convenient API, that will directly write to a defined OutputStream. This means we can use this directly.
+
+We can use the above project to test out the tramission of file requests from one end to other.
